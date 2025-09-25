@@ -43,6 +43,7 @@ nav a:hover{
 
 .hero{
     height: 80vh;
+    background: url(assets/images\ \(52\).jpeg);
     display: flex;
     flex-direction: column;
     justify-content: center;
